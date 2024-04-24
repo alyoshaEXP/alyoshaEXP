@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![KrivosheevDev](https://github.com/alyoshaEXP/alyoshaEXP/assets/150704741/4cceedc9-60d2-4e5e-9357-16ef6d47c579)
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=alyoshaEXP&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/alyoshaEXP)
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,java,html,css&theme=darkmode&includeNames=true)](https://github.com/alyoshaEXP)
+
 
 
 
