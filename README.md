@@ -45,8 +45,3 @@ const AlyoshaEXP = {
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AlyoshaExp&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlyoshaExp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-| CTF | Result | Team | Date |
-|-----|-----|-----|-----|
-|CIT@CTF|top 6%|undermouses|04/2024|
-|Space HeroesCTF| top 23% | check_yor_mom |04/2024|
-
